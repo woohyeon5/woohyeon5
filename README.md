@@ -27,17 +27,3 @@
           </div>  <br> 
     <div align= "left">  </div> 
     </div>
-    <div align= "left"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> 
-        <table>
-            <tr>
-                <td valign="top" width="50%">
-                <img src="https://github-readme-stats.vercel.app/api?username=woohyeon5&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-                </td><td valign="top" width="50%">
-                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=woohyeon5&hide_border=true&layout=compact" align="left" style="width: 100%" />
-                </td>
-            </tr>
-        </table>  
-
-    
-    
