@@ -1,13 +1,12 @@
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=150&section=header&text=hi-&fontSize=90" />
 
-<br/>  
-
+<br/>  <br>
 ## Hi There 👋  
 <div align= "left"> 
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 안녕하세요! <br></li> 개발자 정우현입니다. </div> 
 </div>
-    
+<br>
 <div align= "left">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📚 Tech Stack 📚 </h2>
     <div style="display:flex; flex-direction:column; align-items:flex-start;">
@@ -35,7 +34,6 @@
     <p><strong>Server</strong></p
     <div>
      <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black">   
-     <img src="https://img.shields.io/badge/apache maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=black">
     </div>
     <!--Development Tools-->
     <p><strong>Development Tools</strong></p>
@@ -54,9 +52,9 @@
     <p><strong>Version Control</strong></p>
     <div>
     <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
     </div>
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🌈 Follow Me 🌈 </h2> <br> 
+    <br>
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🌈 Follow Me 🌈 </h2> 
     <div align= "left">
         <a href="https://github.com/woohyeon" target="_blank"><img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" /></a>
         <a href=https://whjeong-dev.tistory.com/> <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white&link=https://whjeong-dev.tistory.com/"></a>
@@ -64,3 +62,4 @@
           </div>  <br> 
     <div align= "left">  </div> 
     </div>
+    <br>
