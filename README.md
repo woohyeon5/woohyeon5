@@ -55,7 +55,6 @@
     <br>
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🌈 Follow Me 🌈 </h2> 
     <div align= "left">
-        <a href="https://github.com/woohyeon5" target="_blank"><img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" /></a>
         <a href=https://whjeong-dev.tistory.com/> <img src="https://img.shields.io/badge/Tistory-EC4815?style=for-the-badge&logo=Tistory&logoColor=white&link=https://whjeong-dev.tistory.com/"></a>
         <a href=mailto:whjeong5@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:whjeong5@gmail.com"> </a>
           </div>  <br> 
